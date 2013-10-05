@@ -37,6 +37,11 @@
 					<navLabel><text>时运</text></navLabel>
 					<content src="Text/chapter01.xhtml#shiyun"/>		    
 				</navPoint>		    
+
+				<navPoint id="navPoint-6" playOrder="6">
+					<navLabel><text>荣木</text></navLabel>
+					<content src="Text/chapter01.xhtml#rongmu"/>		    
+				</navPoint>		    
 			</navPoint>
 		</navPoint>
 	</navMap>

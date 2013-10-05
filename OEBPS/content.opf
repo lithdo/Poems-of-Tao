@@ -14,10 +14,12 @@
         <item id="stylesheet" href="Styles/stylesheet.css" media-type="text/css"/>
         <item id="title_page" href="Text/title_page.xhtml" media-type="application/xhtml+xml"/>
         <item id="preface" href="Text/preface.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter01" href="Text/chapter01.xhtml" media-type="application/xhtml+xml"/>
     </manifest>
 
     <spine toc="ncx">
         <itemref idref="title_page"/>
         <itemref idref="preface"/>
+        <itemref idref="chapter01"/>
     </spine>
 </package>

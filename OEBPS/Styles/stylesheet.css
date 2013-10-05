@@ -6,5 +6,13 @@ p.prologue {
 /* 诗的正文 */
 p.content {
 	font-family: "DK-KAITI";
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+/* 诗的标题 */
+h3 {
+	margin-top: 30px;
+	margin-bottom: 20px;
 }
 

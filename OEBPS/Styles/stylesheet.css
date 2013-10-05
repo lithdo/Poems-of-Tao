@@ -1,0 +1,10 @@
+/* 诗的序文 */
+p.prologue {
+	font-family: "DK-SONGTI";
+}
+
+/* 诗的正文 */
+p.content {
+	font-family: "DK-KAITI";
+}
+

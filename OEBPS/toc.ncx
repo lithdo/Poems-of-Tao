@@ -16,26 +16,26 @@
 
 	<navMap>
 		<navPoint id="navPoint-1" playOrder="1">
-		    	<navLabel><text>陶渊明集</text></navLabel>
-		    	<content src="Text/title_page.xhtml"/>
+			<navLabel><text>陶渊明集</text></navLabel>
+			<content src="Text/title_page.xhtml"/>
 
-		    	<navPoint id="navPoint-2" playOrder="2">
-		    		<navLabel><text>陶渊明集序</text></navLabel>
-		    		<content src="Text/preface.xhtml"/>		    
+			<navPoint id="navPoint-2" playOrder="2">
+				<navLabel><text>陶渊明集序</text></navLabel>
+				<content src="Text/preface.xhtml"/>		    
 			</navPoint>
 
 			<navPoint id="navPoint-3" playOrder="3">
-		    		<navLabel><text>卷一 诗四言</text></navLabel>
-		    		<content src="Text/chapter01.xhtml"/>
+				<navLabel><text>卷一 诗四言</text></navLabel>
+				<content src="Text/chapter01.xhtml"/>
 
 				<navPoint id="navPoint-4" playOrder="4">
-		    			<navLabel><text>停云</text></navLabel>
-		    			<content src="Text/chapter01.xhtml#tingyun"/>		    
+					<navLabel><text>停云</text></navLabel>
+					<content src="Text/chapter01.xhtml#tingyun"/>		    
 				</navPoint>		    
 
 				<navPoint id="navPoint-5" playOrder="5">
-		    			<navLabel><text>时运</text></navLabel>
-		    			<content src="Text/chapter01.xhtml#shiyun"/>		    
+					<navLabel><text>时运</text></navLabel>
+					<content src="Text/chapter01.xhtml#shiyun"/>		    
 				</navPoint>		    
 			</navPoint>
 		</navPoint>

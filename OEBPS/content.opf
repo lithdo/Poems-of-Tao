@@ -18,7 +18,7 @@
     </manifest>
 
     <spine toc="ncx">
-        <itemref idref="title_page"/>
+        <itemref idref="title_page"  properties="duokan-page-fullscreen"/>
         <itemref idref="preface"/>
         <itemref idref="chapter01"/>
     </spine>

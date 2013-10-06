@@ -18,4 +18,4 @@ Windows下，右键新建zip文件，然后依次将mimetype, META-INF, OEBPS添
 
 第一卷前三首诗参考《陶渊明集（逯钦立校注）》，中华书局1979年5月出版。
 
-后面的诗文均参考网站http://www.eywedu.com/Taoyuanming/jiyizhu/index.htm上的文本，该文本源于《陶渊明集译注及研究》，孟二冬，昆仑出版社2008年出版。
+后面的诗文均参考[陶渊明文集在线阅读](http://www.eywedu.com/Taoyuanming/jiyizhu/index.htm)上的文本，该文本源于《陶渊明集译注及研究》，孟二冬，昆仑出版社2008年出版。

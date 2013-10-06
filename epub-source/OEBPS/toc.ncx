@@ -46,6 +46,11 @@
 				<navPoint id="navPoint-7" playOrder="7">
 					<navLabel><text>赠长沙公</text></navLabel>
 					<content src="Text/chapter01/zengchangshagong.xhtml"/>		    
+				</navPoint>		    
+
+				<navPoint id="navPoint-7" playOrder="7">
+					<navLabel><text>酬丁柴桑</text></navLabel>
+					<content src="Text/chapter01/choudingcaisang.xhtml"/>		    
 				</navPoint>		
 			</navPoint>
 		</navPoint>

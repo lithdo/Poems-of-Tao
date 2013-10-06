@@ -20,6 +20,10 @@
         <item id="rongmu" href="Text/chapter01/rongmu.xhtml" media-type="application/xhtml+xml"/>
         <item id="zengchangshagong" href="Text/chapter01/zengchangshagong.xhtml" media-type="application/xhtml+xml"/>
         <item id="choudingcaisang" href="Text/chapter01/choudingcaisang.xhtml" media-type="application/xhtml+xml"/>
+        <item id="dapangcanjun" href="Text/chapter01/dapangcanjun.xhtml" media-type="application/xhtml+xml"/>
+        <item id="quannong" href="Text/chapter01/quannong.xhtml" media-type="application/xhtml+xml"/>
+        <item id="mingzi" href="Text/chapter01/mingzi.xhtml" media-type="application/xhtml+xml"/>
+        <item id="guiniao" href="Text/chapter01/guiniao.xhtml" media-type="application/xhtml+xml"/>
     </manifest>
 
     <spine toc="ncx">
@@ -31,5 +35,9 @@
         <itemref idref="rongmu"/>
         <itemref idref="zengchangshagong"/>
         <itemref idref="choudingcaisang"/>
+        <itemref idref="dapangcanjun"/>
+        <itemref idref="quannong"/>
+        <itemref idref="mingzi"/>
+        <itemref idref="guiniao"/>
     </spine>
 </package>

@@ -51,6 +51,26 @@
 				<navPoint id="navPoint-7" playOrder="7">
 					<navLabel><text>酬丁柴桑</text></navLabel>
 					<content src="Text/chapter01/choudingcaisang.xhtml"/>		    
+				</navPoint>		    
+
+				<navPoint id="navPoint-7" playOrder="7">
+					<navLabel><text>答庞参军</text></navLabel>
+					<content src="Text/chapter01/dapangcanjun.xhtml"/>		    
+				</navPoint>		
+
+				<navPoint id="navPoint-7" playOrder="7">
+					<navLabel><text>劝农</text></navLabel>
+					<content src="Text/chapter01/quannong.xhtml"/>		    
+				</navPoint>		    
+
+				<navPoint id="navPoint-7" playOrder="7">
+					<navLabel><text>命子</text></navLabel>
+					<content src="Text/chapter01/mingzi.xhtml"/>		    
+				</navPoint>		    
+
+				<navPoint id="navPoint-7" playOrder="7">
+					<navLabel><text>归鸟</text></navLabel>
+					<content src="Text/chapter01/guiniao.xhtml"/>		    
 				</navPoint>		
 			</navPoint>
 		</navPoint>

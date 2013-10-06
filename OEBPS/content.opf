@@ -14,10 +14,10 @@
         <item id="stylesheet" href="Styles/stylesheet.css" media-type="text/css"/>
         <item id="title_page" href="Text/title_page.xhtml" media-type="application/xhtml+xml"/>
         <item id="preface" href="Text/preface.xhtml" media-type="application/xhtml+xml"/>
-        <item id="chapter01" href="Text/chapter01.xhtml" media-type="application/xhtml+xml"/>
-        <item id="tingyun" href="Text/tingyun.xhtml" media-type="application/xhtml+xml"/>
-        <item id="shiyun" href="Text/shiyun.xhtml" media-type="application/xhtml+xml"/>
-        <item id="rongmu" href="Text/rongmu.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter01" href="Text/chapter01/chapter01.xhtml" media-type="application/xhtml+xml"/>
+        <item id="tingyun" href="Text/chapter01/tingyun.xhtml" media-type="application/xhtml+xml"/>
+        <item id="shiyun" href="Text/chapter01/shiyun.xhtml" media-type="application/xhtml+xml"/>
+        <item id="rongmu" href="Text/chapter01/rongmu.xhtml" media-type="application/xhtml+xml"/>
     </manifest>
 
     <spine toc="ncx">

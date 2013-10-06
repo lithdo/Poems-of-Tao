@@ -26,21 +26,21 @@
 
 			<navPoint id="navPoint-3" playOrder="3">
 				<navLabel><text>卷一 诗四言</text></navLabel>
-				<content src="Text/chapter01.xhtml"/>
+				<content src="Text/chapter01/chapter01.xhtml"/>
 
 				<navPoint id="navPoint-4" playOrder="4">
 					<navLabel><text>停云</text></navLabel>
-					<content src="Text/tingyun.xhtml"/>		    
+					<content src="Text/chapter01/tingyun.xhtml"/>		    
 				</navPoint>		    
 
 				<navPoint id="navPoint-5" playOrder="5">
 					<navLabel><text>时运</text></navLabel>
-					<content src="Text/shiyun.xhtml"/>		    
+					<content src="Text/chapter01/shiyun.xhtml"/>		    
 				</navPoint>		    
 
 				<navPoint id="navPoint-6" playOrder="6">
 					<navLabel><text>荣木</text></navLabel>
-					<content src="Text/rongmu.xhtml"/>		    
+					<content src="Text/chapter01/rongmu.xhtml"/>		    
 				</navPoint>		    
 			</navPoint>
 		</navPoint>

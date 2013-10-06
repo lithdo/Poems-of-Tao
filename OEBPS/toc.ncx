@@ -30,17 +30,17 @@
 
 				<navPoint id="navPoint-4" playOrder="4">
 					<navLabel><text>停云</text></navLabel>
-					<content src="Text/chapter01.xhtml#tingyun"/>		    
+					<content src="Text/tingyun.xhtml"/>		    
 				</navPoint>		    
 
 				<navPoint id="navPoint-5" playOrder="5">
 					<navLabel><text>时运</text></navLabel>
-					<content src="Text/chapter01.xhtml#shiyun"/>		    
+					<content src="Text/shiyun.xhtml"/>		    
 				</navPoint>		    
 
 				<navPoint id="navPoint-6" playOrder="6">
 					<navLabel><text>荣木</text></navLabel>
-					<content src="Text/chapter01.xhtml#rongmu"/>		    
+					<content src="Text/rongmu.xhtml"/>		    
 				</navPoint>		    
 			</navPoint>
 		</navPoint>

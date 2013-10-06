@@ -15,11 +15,17 @@
         <item id="title_page" href="Text/title_page.xhtml" media-type="application/xhtml+xml"/>
         <item id="preface" href="Text/preface.xhtml" media-type="application/xhtml+xml"/>
         <item id="chapter01" href="Text/chapter01.xhtml" media-type="application/xhtml+xml"/>
+        <item id="tingyun" href="Text/tingyun.xhtml" media-type="application/xhtml+xml"/>
+        <item id="shiyun" href="Text/shiyun.xhtml" media-type="application/xhtml+xml"/>
+        <item id="rongmu" href="Text/rongmu.xhtml" media-type="application/xhtml+xml"/>
     </manifest>
 
     <spine toc="ncx">
         <itemref idref="title_page"  properties="duokan-page-fullscreen"/>
         <itemref idref="preface"/>
         <itemref idref="chapter01"/>
+        <itemref idref="tingyun"/>
+        <itemref idref="shiyun"/>
+        <itemref idref="rongmu"/>
     </spine>
 </package>

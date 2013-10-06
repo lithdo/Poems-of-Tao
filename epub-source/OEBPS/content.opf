@@ -18,6 +18,7 @@
         <item id="tingyun" href="Text/chapter01/tingyun.xhtml" media-type="application/xhtml+xml"/>
         <item id="shiyun" href="Text/chapter01/shiyun.xhtml" media-type="application/xhtml+xml"/>
         <item id="rongmu" href="Text/chapter01/rongmu.xhtml" media-type="application/xhtml+xml"/>
+        <item id="zengchangshagong" href="Text/chapter01/zengchangshagong.xhtml" media-type="application/xhtml+xml"/>
     </manifest>
 
     <spine toc="ncx">
@@ -27,5 +28,6 @@
         <itemref idref="tingyun"/>
         <itemref idref="shiyun"/>
         <itemref idref="rongmu"/>
+        <itemref idref="zengchangshagong"/>
     </spine>
 </package>

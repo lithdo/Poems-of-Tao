@@ -12,5 +12,4 @@ zip -r tao.zip epub-source/{META-INF,OEBPS}
 mv tao.{zip,epub}
 ```
 
-Windows下，右键新建zip文件，然后依次将mimetype, META-INF, OEBPS添加
-进zip文件（将文件拖放到zip文件即可）。注意：mimetype必须第一个添加。
+Windows下，右键新建zip文件，然后依次将mimetype, META-INF, OEBPS添加进zip文件（将它们拖放到zip文件上即可）。注意：mimetype必须第一个添加。

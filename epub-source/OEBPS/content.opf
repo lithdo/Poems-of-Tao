@@ -12,8 +12,10 @@
     <manifest>
         <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
         <item id="stylesheet" href="Styles/stylesheet.css" media-type="text/css"/>
+		
         <item id="title_page" href="Text/title_page.xhtml" media-type="application/xhtml+xml"/>
         <item id="preface" href="Text/preface.xhtml" media-type="application/xhtml+xml"/>
+		
         <item id="chapter01" href="Text/chapter01/chapter01.xhtml" media-type="application/xhtml+xml"/>
         <item id="tingyun" href="Text/chapter01/tingyun.xhtml" media-type="application/xhtml+xml"/>
         <item id="shiyun" href="Text/chapter01/shiyun.xhtml" media-type="application/xhtml+xml"/>
@@ -24,11 +26,35 @@
         <item id="quannong" href="Text/chapter01/quannong.xhtml" media-type="application/xhtml+xml"/>
         <item id="mingzi" href="Text/chapter01/mingzi.xhtml" media-type="application/xhtml+xml"/>
         <item id="guiniao" href="Text/chapter01/guiniao.xhtml" media-type="application/xhtml+xml"/>
+		
+        <item id="chapter02" href="Text/chapter02/chapter02.xhtml" media-type="application/xhtml+xml"/>
+		<item id="xingyingshen" href="Text/chapter02/xingyingshen.xhtml" media-type="application/xhtml+xml"/>
+		<item id="jiurixianju" href="Text/chapter02/jiurixianju.xhtml" media-type="application/xhtml+xml"/>
+		<item id="guiyuantianju" href="Text/chapter02/guiyuantianju.xhtml" media-type="application/xhtml+xml"/>
+		<item id="youxiechuan" href="Text/chapter02/youxiechuan.xhtml" media-type="application/xhtml+xml"/>
+		<item id="shizhouxu" href="Text/chapter02/shizhouxu.xhtml" media-type="application/xhtml+xml"/>
+		<item id="qishi" href="Text/chapter02/qishi.xhtml" media-type="application/xhtml+xml"/>
+		<item id="zhuren" href="Text/chapter02/zhuren.xhtml" media-type="application/xhtml+xml"/>
+		<item id="yuanshi" href="Text/chapter02/yuanshi.xhtml" media-type="application/xhtml+xml"/>
+		<item id="dapangcanjun5" href="Text/chapter02/dapangcanjun5.xhtml" media-type="application/xhtml+xml"/>
+		<item id="wuyuedan" href="Text/chapter02/wuyuedan.xhtml" media-type="application/xhtml+xml"/>
+		<item id="lianyuduyin" href="Text/chapter02/lianyuduyin.xhtml" media-type="application/xhtml+xml"/>
+		<item id="yiju" href="Text/chapter02/yiju.xhtml" media-type="application/xhtml+xml"/>
+		<item id="heliucaisang" href="Text/chapter02/heliucaisang.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chouliucaisang" href="Text/chapter02/chouliucaisang.xhtml" media-type="application/xhtml+xml"/>
+		<item id="heguozhubu" href="Text/chapter02/heguozhubu.xhtml" media-type="application/xhtml+xml"/>
+		<item id="yuwangfujun" href="Text/chapter02/yuwangfujun.xhtml" media-type="application/xhtml+xml"/>
+		<item id="yuyinjin" href="Text/chapter02/yuyinjin.xhtml" media-type="application/xhtml+xml"/>
+		<item id="zengyangchangshi" href="Text/chapter02/zengyangchangshi.xhtml" media-type="application/xhtml+xml"/>
+		<item id="suimu" href="Text/chapter02/suimu.xhtml" media-type="application/xhtml+xml"/>
+		<item id="hehuxi" href="Text/chapter02/hehuxi.xhtml" media-type="application/xhtml+xml"/>
+		<item id="beicongdi" href="Text/chapter02/beicongdi.xhtml" media-type="application/xhtml+xml"/>
     </manifest>
 
     <spine toc="ncx">
         <itemref idref="title_page"  properties="duokan-page-fullscreen"/>
         <itemref idref="preface"/>
+		
         <itemref idref="chapter01"/>
         <itemref idref="tingyun"/>
         <itemref idref="shiyun"/>
@@ -39,5 +65,28 @@
         <itemref idref="quannong"/>
         <itemref idref="mingzi"/>
         <itemref idref="guiniao"/>
+		
+		<itemref idref="chapter02"/>
+		<itemref idref="xingyingshen"/>
+		<itemref idref="jiurixianju"/>
+		<itemref idref="guiyuantianju"/>
+		<itemref idref="youxiechuan"/>
+		<itemref idref="shizhouxu"/>
+		<itemref idref="qishi"/>
+		<itemref idref="zhuren"/>
+		<itemref idref="yuanshi"/>
+		<itemref idref="dapangcanjun5"/>
+		<itemref idref="wuyuedan"/>
+		<itemref idref="lianyuduyin"/>
+		<itemref idref="yiju"/>
+		<itemref idref="heliucaisang"/>
+		<itemref idref="chouliucaisang"/>
+		<itemref idref="heguozhubu"/>
+		<itemref idref="yuwangfujun"/>
+		<itemref idref="yuyinjin"/>
+		<itemref idref="zengyangchangshi"/>
+		<itemref idref="suimu"/>
+		<itemref idref="hehuxi"/>
+		<itemref idref="beicongdi"/>
     </spine>
 </package>

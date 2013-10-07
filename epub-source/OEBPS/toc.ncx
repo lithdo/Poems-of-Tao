@@ -48,30 +48,141 @@
 					<content src="Text/chapter01/zengchangshagong.xhtml"/>		    
 				</navPoint>		    
 
-				<navPoint id="navPoint-7" playOrder="7">
+				<navPoint id="navPoint-8" playOrder="8">
 					<navLabel><text>酬丁柴桑</text></navLabel>
 					<content src="Text/chapter01/choudingcaisang.xhtml"/>		    
 				</navPoint>		    
 
-				<navPoint id="navPoint-7" playOrder="7">
+				<navPoint id="navPoint-9" playOrder="9">
 					<navLabel><text>答庞参军</text></navLabel>
 					<content src="Text/chapter01/dapangcanjun.xhtml"/>		    
 				</navPoint>		
 
-				<navPoint id="navPoint-7" playOrder="7">
+				<navPoint id="navPoint-10" playOrder="10">
 					<navLabel><text>劝农</text></navLabel>
 					<content src="Text/chapter01/quannong.xhtml"/>		    
 				</navPoint>		    
 
-				<navPoint id="navPoint-7" playOrder="7">
+				<navPoint id="navPoint-11" playOrder="11">
 					<navLabel><text>命子</text></navLabel>
 					<content src="Text/chapter01/mingzi.xhtml"/>		    
 				</navPoint>		    
 
-				<navPoint id="navPoint-7" playOrder="7">
+				<navPoint id="navPoint-12" playOrder="12">
 					<navLabel><text>归鸟</text></navLabel>
 					<content src="Text/chapter01/guiniao.xhtml"/>		    
-				</navPoint>		
+				</navPoint>	    
+			</navPoint>
+
+			<navPoint id="navPoint-13" playOrder="13">
+				<navLabel><text>卷二 诗五言</text></navLabel>
+				<content src="Text/chapter02/chapter02.xhtml"/>
+
+				<navPoint id="navPoint-14" playOrder="14">
+					<navLabel><text>形影神</text></navLabel>
+					<content src="Text/chapter02/xingyingshen.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-15" playOrder="16">
+					<navLabel><text>九日闲居</text></navLabel>
+					<content src="Text/chapter02/jiurixianju.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-16" playOrder="16">
+					<navLabel><text>归园田居五首</text></navLabel>
+					<content src="Text/chapter02/guiyuantianju.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-17" playOrder="18">
+					<navLabel><text>游斜川</text></navLabel>
+					<content src="Text/chapter02/youxiechuan.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-18" playOrder="19">
+					<navLabel><text>示周续之祖企谢景夷三郎</text></navLabel>
+					<content src="Text/chapter02/shizhouxu.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-19" playOrder="20">
+					<navLabel><text>乞食</text></navLabel>
+					<content src="Text/chapter02/qishi.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-20" playOrder="21">
+					<navLabel><text>诸人共游周家墓柏下</text></navLabel>
+					<content src="Text/chapter02/zhuren.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-21" playOrder="22">
+					<navLabel><text>怨诗楚调示庞主簿邓治中</text></navLabel>
+					<content src="Text/chapter02/yuanshi.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-22" playOrder="23">
+					<navLabel><text>答庞参军</text></navLabel>
+					<content src="Text/chapter02/dapangcanjun5.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-23" playOrder="24">
+					<navLabel><text>五月旦作和戴主簿</text></navLabel>
+					<content src="Text/chapter02/wuyuedan.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-24" playOrder="25">
+					<navLabel><text>连雨独饮</text></navLabel>
+					<content src="Text/chapter02/lianyuduyin.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-25" playOrder="26">
+					<navLabel><text>移居二首</text></navLabel>
+					<content src="Text/chapter02/yiju.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-26" playOrder="26">
+					<navLabel><text>和刘柴桑</text></navLabel>
+					<content src="Text/chapter02/heliucaisang.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-27" playOrder="27">
+					<navLabel><text>酬刘柴桑</text></navLabel>
+					<content src="Text/chapter02/chouliucaisang.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-28" playOrder="28">
+					<navLabel><text>和郭主簿二首</text></navLabel>
+					<content src="Text/chapter02/heguozhubu.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-29" playOrder="29">
+					<navLabel><text>于王抚军座送客</text></navLabel>
+					<content src="Text/chapter02/yuwangfujun.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-30" playOrder="30">
+					<navLabel><text>与殷晋安别</text></navLabel>
+					<content src="Text/chapter02/yuyinjin.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-31" playOrder="31">
+					<navLabel><text>赠羊长史</text></navLabel>
+					<content src="Text/chapter02/zengyangchangshi.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-32" playOrder="32">
+					<navLabel><text>岁暮和张常侍</text></navLabel>
+					<content src="Text/chapter02/suimu.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-33" playOrder="33">
+					<navLabel><text>和胡西曹示顾贼曹</text></navLabel>
+					<content src="Text/chapter02/hehuxi.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-34" playOrder="34">
+					<navLabel><text>悲从弟仲德</text></navLabel>
+					<content src="Text/chapter02/beicongdi.xhtml"/>
+				</navPoint>
+				
 			</navPoint>
 		</navPoint>
 	</navMap>

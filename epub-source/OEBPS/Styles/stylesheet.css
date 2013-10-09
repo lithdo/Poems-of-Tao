@@ -1,14 +1,21 @@
 /* 序标题或卷标题 */
 h2{
-	text-align: right;
 	font-style: italic;
 	font-size: 150%;
-	border-bottom: thick solid #ff0000;
+}
+
+/* 序标题 */
+h2.preface_title {
+	text-align: left;
+	padding-left: 10px;
+	border-left: thick solid #ff0000;
 }
 
 /* 卷标题 */
 h2.chapter_title {
+	text-align: right;
 	margin-top: 150px;
+	border-bottom: thick solid #ff0000;
 }
 
 /* 诗的标题 */
@@ -22,6 +29,17 @@ h3 {
 h4 {
 	text-align: center;
 	margin-top: 20px;
+}
+
+/* 序的内容 */
+p.preface-content {
+	font-family: "DK-SONGTI";
+}
+
+/* 序的作者 */
+p.preface-author {
+	text-align: right;
+	font-family: "DK-KAITI";
 }
 
 /* 诗的简介 */

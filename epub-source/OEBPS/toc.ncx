@@ -182,7 +182,96 @@
 					<navLabel><text>悲从弟仲德</text></navLabel>
 					<content src="Text/chapter02/beicongdi.xhtml"/>
 				</navPoint>
+			</navPoint>
 				
+			<navPoint id="navPoint-35" playOrder="35">
+				<navLabel><text>卷三 诗五言</text></navLabel>
+				<content src="Text/chapter03/chapter03.xhtml"/>
+
+				<navPoint id="navPoint-36" playOrder="36">
+					<navLabel><text>始作镇军参军经曲阿作</text></navLabel>
+					<content src="Text/chapter03/shujiu.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-37" playOrder="37">
+					<navLabel><text>庚子岁五月中从都还阻风干规林二首</text></navLabel>
+					<content src="Text/chapter03/gengzisuiwuyue.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-38" playOrder="38">
+					<navLabel><text>辛丑岁七月赴假还江陵夜行涂口</text></navLabel>
+					<content src="Text/chapter03/xinchousuiqiyue.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-39" playOrder="39">
+					<navLabel><text>癸卯岁始春怀古田舍二首</text></navLabel>
+					<content src="Text/chapter03/kuimaosuishichun.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-40" playOrder="40">
+					<navLabel><text>癸卯岁十二月中作与从弟敬远</text></navLabel>
+					<content src="Text/chapter03/kuimaosuishieryue.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-41" playOrder="41">
+					<navLabel><text>乙巳岁三月为建威参军使都经钱溪</text></navLabel>
+					<content src="Text/chapter03/yishisuisanyue.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-42" playOrder="42">
+					<navLabel><text>还旧居</text></navLabel>
+					<content src="Text/chapter03/huanjiuju.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-43" playOrder="43">
+					<navLabel><text>戊申岁六月中遇火</text></navLabel>
+					<content src="Text/chapter03/wushensuiliuyue.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-44" playOrder="44">
+					<navLabel><text>己酉岁九月九日</text></navLabel>
+					<content src="Text/chapter03/jiyousuijiuyue.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-45" playOrder="45">
+					<navLabel><text>庚戌岁九月中于西田获早稻</text></navLabel>
+					<content src="Text/chapter03/gengxusuijiuyue.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-46" playOrder="46">
+					<navLabel><text>丙辰岁八月中于下撰田舍获</text></navLabel>
+					<content src="Text/chapter03/bingchensuibayue.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-47" playOrder="47">
+					<navLabel><text>饮酒二十首并序</text></navLabel>
+					<content src="Text/chapter03/yinjiu.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-48" playOrder="48">
+					<navLabel><text>止酒</text></navLabel>
+					<content src="Text/chapter03/zhijiu.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-49" playOrder="49">
+					<navLabel><text>述酒</text></navLabel>
+					<content src="Text/chapter03/shujiu.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-50" playOrder="50">
+					<navLabel><text>责子</text></navLabel>
+					<content src="Text/chapter03/zezi.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-51" playOrder="51">
+					<navLabel><text>有会而作并序</text></navLabel>
+					<content src="Text/chapter03/youhui.xhtml"/>
+				</navPoint>
+
+				<navPoint id="navPoint-52" playOrder="52">
+					<navLabel><text>蜡日</text></navLabel>
+					<content src="Text/chapter03/lari.xhtml"/>
+				</navPoint>
 			</navPoint>
 		</navPoint>
 	</navMap>

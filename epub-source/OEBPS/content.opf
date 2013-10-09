@@ -49,6 +49,25 @@
 		<item id="suimu" href="Text/chapter02/suimu.xhtml" media-type="application/xhtml+xml"/>
 		<item id="hehuxi" href="Text/chapter02/hehuxi.xhtml" media-type="application/xhtml+xml"/>
 		<item id="beicongdi" href="Text/chapter02/beicongdi.xhtml" media-type="application/xhtml+xml"/>
+		
+        <item id="chapter03" href="Text/chapter03/chapter03.xhtml" media-type="application/xhtml+xml"/>
+		<item id="shujiu" href="Text/chapter03/shujiu.xhtml" media-type="application/xhtml+xml"/>
+		<item id="gengzisuiwuyue" href="Text/chapter03/gengzisuiwuyue.xhtml" media-type="application/xhtml+xml"/>
+		<item id="xinchousuiqiyue" href="Text/chapter03/xinchousuiqiyue.xhtml" media-type="application/xhtml+xml"/>
+		<item id="kuimaosuishichun" href="Text/chapter03/kuimaosuishichun.xhtml" media-type="application/xhtml+xml"/>
+		<item id="kuimaosuishieryue" href="Text/chapter03/kuimaosuishieryue.xhtml" media-type="application/xhtml+xml"/>
+		<item id="yishisuisanyue" href="Text/chapter03/yishisuisanyue.xhtml" media-type="application/xhtml+xml"/>
+		<item id="huanjiuju" href="Text/chapter03/huanjiuju.xhtml" media-type="application/xhtml+xml"/>
+		<item id="wushensuiliuyue" href="Text/chapter03/wushensuiliuyue.xhtml" media-type="application/xhtml+xml"/>
+		<item id="jiyousuijiuyue" href="Text/chapter03/jiyousuijiuyue.xhtml" media-type="application/xhtml+xml"/>
+		<item id="gengxusuijiuyue" href="Text/chapter03/gengxusuijiuyue.xhtml" media-type="application/xhtml+xml"/>
+		<item id="bingchensuibayue" href="Text/chapter03/bingchensuibayue.xhtml" media-type="application/xhtml+xml"/>
+		<item id="yinjiu" href="Text/chapter03/yinjiu.xhtml" media-type="application/xhtml+xml"/>
+		<item id="zhijiu" href="Text/chapter03/zhijiu.xhtml" media-type="application/xhtml+xml"/>
+		<item id="shujiu" href="Text/chapter03/shujiu.xhtml" media-type="application/xhtml+xml"/>
+		<item id="zezi" href="Text/chapter03/zezi.xhtml" media-type="application/xhtml+xml"/>
+		<item id="youhui" href="Text/chapter03/youhui.xhtml" media-type="application/xhtml+xml"/>
+		<item id="lari" href="Text/chapter03/lari.xhtml" media-type="application/xhtml+xml"/>
     </manifest>
 
     <spine toc="ncx">
@@ -88,5 +107,24 @@
 		<itemref idref="suimu"/>
 		<itemref idref="hehuxi"/>
 		<itemref idref="beicongdi"/>
+		
+		<itemref idref="chapter03"/>
+		<itemref idref="shujiu"/>
+		<itemref idref="gengzisuiwuyue"/>
+		<itemref idref="xinchousuiqiyue"/>
+		<itemref idref="kuimaosuishichun"/>
+		<itemref idref="kuimaosuishieryue"/>
+		<itemref idref="yishisuisanyue"/>
+		<itemref idref="huanjiuju"/>
+		<itemref idref="wushensuiliuyue"/>
+		<itemref idref="jiyousuijiuyue"/>
+		<itemref idref="gengxusuijiuyue"/>
+		<itemref idref="bingchensuibayue"/>
+		<itemref idref="yinjiu"/>
+		<itemref idref="zhijiu"/>
+		<itemref idref="shujiu"/>
+		<itemref idref="zezi"/>
+		<itemref idref="youhui"/>
+		<itemref idref="lari"/>
     </spine>
 </package>

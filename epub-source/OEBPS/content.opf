@@ -68,7 +68,22 @@
 		<item id="zezi" href="Text/chapter03/zezi.xhtml" media-type="application/xhtml+xml"/>
 		<item id="youhui" href="Text/chapter03/youhui.xhtml" media-type="application/xhtml+xml"/>
 		<item id="lari" href="Text/chapter03/lari.xhtml" media-type="application/xhtml+xml"/>
-    </manifest>
+    		
+        <item id="chapter04" href="Text/chapter04/chapter04.xhtml" media-type="application/xhtml+xml"/>
+		<item id="nigu" href="Text/chapter04/nigu.xhtml" media-type="application/xhtml+xml"/>
+		<item id="zashi" href="Text/chapter04/zashi.xhtml" media-type="application/xhtml+xml"/>
+		<item id="yongpinshi" href="Text/chapter04/yongpinshi.xhtml" media-type="application/xhtml+xml"/>
+		<item id="yongershu" href="Text/chapter04/yongershu.xhtml" media-type="application/xhtml+xml"/>
+		<item id="yongsanliang" href="Text/chapter04/yongsanliang.xhtml" media-type="application/xhtml+xml"/>
+		<item id="yongjingke" href="Text/chapter04/yongjingke.xhtml" media-type="application/xhtml+xml"/>
+		<item id="dushanhaijing" href="Text/chapter04/dushanhaijing.xhtml" media-type="application/xhtml+xml"/>
+		<item id="wange" href="Text/chapter04/wange.xhtml" media-type="application/xhtml+xml"/>
+
+        <item id="chapter05" href="Text/chapter05/chapter05.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ganshibuyu" href="Text/chapter05/ganshibuyu.xhtml" media-type="application/xhtml+xml"/>
+		<item id="xianqing" href="Text/chapter05/xianqing.xhtml" media-type="application/xhtml+xml"/>
+		<item id="guiqulai" href="Text/chapter05/guiqulai.xhtml" media-type="application/xhtml+xml"/>
+	</manifest>
 
     <spine toc="ncx">
         <itemref idref="title_page"  properties="duokan-page-fullscreen"/>
@@ -126,5 +141,20 @@
 		<itemref idref="zezi"/>
 		<itemref idref="youhui"/>
 		<itemref idref="lari"/>
+		
+		<itemref idref="chapter04"/>
+		<itemref idref="nigu"/>
+		<itemref idref="zashi"/>
+		<itemref idref="yongpinshi"/>
+		<itemref idref="yongershu"/>
+		<itemref idref="yongsanliang"/>
+		<itemref idref="yongjingke"/>
+		<itemref idref="dushanhaijing"/>
+		<itemref idref="wange"/>
+
+        <itemref idref="chapter05"/>
+		<itemref idref="ganshibuyu"/>
+		<itemref idref="xianqing"/>		
+		<itemref idref="guiqulai"/>
     </spine>
 </package>

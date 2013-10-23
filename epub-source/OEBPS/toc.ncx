@@ -244,7 +244,7 @@
 				</navPoint>
 
 				<navPoint id="navPoint-47" playOrder="47">
-					<navLabel><text>饮酒二十首并序</text></navLabel>
+					<navLabel><text>饮酒二十首</text></navLabel>
 					<content src="Text/chapter03/yinjiu.xhtml"/>
 				</navPoint>
 
@@ -264,7 +264,7 @@
 				</navPoint>
 
 				<navPoint id="navPoint-51" playOrder="51">
-					<navLabel><text>有会而作并序</text></navLabel>
+					<navLabel><text>有会而作</text></navLabel>
 					<content src="Text/chapter03/youhui.xhtml"/>
 				</navPoint>
 
@@ -272,6 +272,71 @@
 					<navLabel><text>蜡日</text></navLabel>
 					<content src="Text/chapter03/lari.xhtml"/>
 				</navPoint>
+			</navPoint>
+			
+			<navPoint id="navPoint-53" playOrder="53">
+				<navLabel><text>卷四 诗五言</text></navLabel>
+				<content src="Text/chapter04/chapter04.xhtml"/>
+
+				<navPoint id="navPoint-54" playOrder="54">
+					<navLabel><text>拟古九首</text></navLabel>
+					<content src="Text/chapter04/nigu.xhtml"/>
+				</navPoint>
+				
+				<navPoint id="navPoint-55" playOrder="55">
+					<navLabel><text>杂诗十二首</text></navLabel>
+					<content src="Text/chapter04/zashi.xhtml"/>
+				</navPoint>
+				
+				<navPoint id="navPoint-56" playOrder="56">
+					<navLabel><text>咏贫士七首</text></navLabel>
+					<content src="Text/chapter04/yongpinshi.xhtml"/>
+				</navPoint>
+				
+				<navPoint id="navPoint-57" playOrder="57">
+					<navLabel><text>咏二疏</text></navLabel>
+					<content src="Text/chapter04/yongershu.xhtml"/>
+				</navPoint>
+				
+				<navPoint id="navPoint-58" playOrder="58">
+					<navLabel><text>咏三良</text></navLabel>
+					<content src="Text/chapter04/yongsanliang.xhtml"/>
+				</navPoint>
+				
+				<navPoint id="navPoint-59" playOrder="59">
+					<navLabel><text>咏荆轲</text></navLabel>
+					<content src="Text/chapter04/yongjingke.xhtml"/>
+				</navPoint>
+				
+				<navPoint id="navPoint-60" playOrder="60">
+					<navLabel><text>读《山海经》十三首</text></navLabel>
+					<content src="Text/chapter04/dushanhaijing.xhtml"/>
+				</navPoint>				
+				
+				<navPoint id="navPoint-61" playOrder="61">
+					<navLabel><text>挽歌诗三首</text></navLabel>
+					<content src="Text/chapter04/wange.xhtml"/>
+				</navPoint>
+			</navPoint>
+
+			<navPoint id="navPoint-62" playOrder="62">
+				<navLabel><text>卷五 赋辞</text></navLabel>
+				<content src="Text/chapter05/chapter05.xhtml"/>
+
+				<navPoint id="navPoint-63" playOrder="63">
+					<navLabel><text>感士不遇赋</text></navLabel>
+					<content src="Text/chapter05/ganshibuyu.xhtml"/>
+				</navPoint>
+				
+				<navPoint id="navPoint-64" playOrder="64">
+					<navLabel><text>闲情赋</text></navLabel>
+					<content src="Text/chapter05/xianqing.xhtml"/>
+				</navPoint>		
+				
+				<navPoint id="navPoint-65" playOrder="65">
+					<navLabel><text>归去来兮辞</text></navLabel>
+					<content src="Text/chapter05/guiqulai.xhtml"/>
+				</navPoint>				
 			</navPoint>
 		</navPoint>
 	</navMap>

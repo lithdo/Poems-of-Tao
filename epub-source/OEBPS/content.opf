@@ -2,14 +2,16 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:title>陶渊明集</dc:title>
-	<dc:language>zh-cn</dc:language>
+		<dc:language>zh-cn</dc:language>
         <dc:rights>Public Domain</dc:rights>
         <dc:creator opf:role="aut">lithdo</dc:creator>
         <dc:publisher>lithdo.github.io</dc:publisher>
         <dc:identifier id="BookID" opf:scheme="UUID">015ffaec-9340-42f8-b163-a0c5ab7d0611</dc:identifier>
+		<meta name="cover" content="cover_image"/>
     </metadata>
 
     <manifest>
+		<item id="cover_image" href="Images/cover.jpg" media-type="image/jpeg"/>
         <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
         <item id="stylesheet" href="Styles/stylesheet.css" media-type="text/css"/>
 		
